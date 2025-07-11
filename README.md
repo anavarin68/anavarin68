@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar Patel</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/anavarin68?tab=repositories](https://github.com/anavarin68?tab=repositories)
-
-- 📫 How to reach me **kumarpateln7@gmail.com**
+- 👨‍💻 All of my projects are available <a href="https://github.com/anavarin68?tab=repositories">here!</a>
+- 📫 Mail me @<a href="mailto:kumarpateln7@gmail.com">kumarpateln7@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
