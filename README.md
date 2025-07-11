@@ -29,13 +29,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon~alt.svg" alt="css3" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon~alt.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="github.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
 
