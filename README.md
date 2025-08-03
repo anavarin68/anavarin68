@@ -58,8 +58,7 @@ I’m currently pursuing my B.Tech in Computer Science and Engineering from AKTU
 ## 🏆 Code Stats
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anavarin68&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=anavarin68&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anavarin68&show_icons=true&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=anavarin68&theme=dark&hide_border=false)
+![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anavarin68&show_icons=true&theme=dark) ![](https://nirzak-streak-stats.vercel.app/?user=anavarin68&theme=dark&hide_border=false)
 
